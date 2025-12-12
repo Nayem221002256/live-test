@@ -1,4 +1,4 @@
 # live-test
-Student lass
-Inheritance-(Person-class)
-Abstraction (Shape-Circle)
+#Student class
+#Inheritance-(Person-class)
+#Abstraction (Shape-Circle)
