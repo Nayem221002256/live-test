@@ -1,4 +1,14 @@
 # live-test
-#Student class
-#Inheritance-(Person-class)
-#Abstraction (Shape-Circle)
+✔ Class & Constructor
+
+✔ Object Creation
+
+✔ Inheritance
+
+✔ Abstract Class
+
+✔ Abstract Method
+
+✔ Setter & Getter
+
+✔ Practical examples
